@@ -1,0 +1,6 @@
+INFO 2023-12-26 00:35:50,123 views success_logger Students fetched successfully
+INFO 2023-12-26 00:36:41,414 views success_logger Student with id 3 created successfully
+INFO 2023-12-26 00:36:47,004 views success_logger Student with id 4 created successfully
+INFO 2023-12-26 00:37:03,683 views success_logger student updated: School object (4)
+INFO 2023-12-26 00:37:28,410 views success_logger student partially updated: School object (4)
+INFO 2023-12-26 00:37:35,671 views success_logger Student deleted successfully: 4
